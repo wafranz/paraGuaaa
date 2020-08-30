@@ -1,0 +1,57 @@
+.carousel-item {
+  height: 720px;
+}
+  
+  .carousel-image-1 {
+    background: url('../img/casona.jpg');
+    background-size: cover;
+    height: 720px;
+  }
+  
+  .carousel-image-2 {
+    background: url('../img/cajasullana.jpg');
+    background-size: cover;
+    height: 720px;
+  }
+  
+  .carousel-image-3 {
+    background: url('../img/Puentenuevo.jpg');
+    background-size: cover;
+    height: 720px;
+  }
+  
+  .carousel-image-4 {
+    background: url('../img/corso.jpg');
+    background-size: cover;
+    height: 720px;
+  }
+  .carousel-image-5 {
+    background: url('../img/matriz.jpg');
+    background-size: cover; 
+    height: 720px;
+  }
+  .carousel-image-6 {
+    background: url('../img/ovalo.jpg');
+    background-size: cover;
+    height: 720px;
+  }
+  .carousel-image-7 {
+    background: url('../img/pileta.jpg');
+    background-size: cover;
+    height: 720px;
+  }
+  .carousel-image-8 {
+    background: url('../img/puenteViejoAntiguo.jpg');
+    background-size: cover;
+    height: 720px;
+  }
+  .carousel-image-9 {
+    background: url('../img/reyes.jpg');
+    background-size: cover;
+    height: 720px;
+  }
+  .carousel-image-10 {
+    background: url('../img/sullana.jpg');
+    background-size: cover;
+    height: 720px;
+  }
